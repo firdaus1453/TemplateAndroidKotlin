@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">ホーム</string>
+    <string name="home_search_products">商品を検索…</string>
+</resources>

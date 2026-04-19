@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_welcome_title">おかえりなさい</string>
+    <string name="login_welcome_subtitle">続けるにはサインインしてください</string>
+    <string name="login_username_hint">ユーザー名</string>
+    <string name="login_password_hint">パスワード</string>
+    <string name="login_button">サインイン</string>
+    <string name="login_show_password">パスワードを表示</string>
+    <string name="login_hide_password">パスワードを隠す</string>
+    <string name="login_success">ログインに成功しました！</string>
+</resources>

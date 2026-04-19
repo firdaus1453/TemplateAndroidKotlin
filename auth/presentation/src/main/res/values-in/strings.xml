@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_welcome_title">Selamat Datang Kembali</string>
+    <string name="login_welcome_subtitle">Masuk untuk melanjutkan</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Kata Sandi</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_show_password">Tampilkan sandi</string>
+    <string name="login_hide_password">Sembunyikan sandi</string>
+    <string name="login_success">Login berhasil!</string>
+</resources>

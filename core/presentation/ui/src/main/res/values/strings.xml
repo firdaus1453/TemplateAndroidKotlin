@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Error messages -->
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_server">Server error. Please try again later</string>
+    <string name="error_unauthorized">Session expired. Please login again</string>
+    <string name="error_timeout">Request timed out</string>
+    <string name="error_too_many_requests">Too many requests. Please wait</string>
+    <string name="error_serialization">Data processing error</string>
+    <string name="error_disk_full">Storage is full</string>
+    <string name="error_unknown">An unknown error occurred</string>
+
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="empty_list">No items found</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_title">Profil</string>
+    <string name="profile_settings">Pengaturan</string>
+    <string name="profile_theme">Tema</string>
+    <string name="profile_theme_system">Bawaan Sistem</string>
+    <string name="profile_theme_light">Terang</string>
+    <string name="profile_theme_dark">Gelap</string>
+    <string name="profile_language">Bahasa</string>
+    <string name="profile_logout">Keluar</string>
+    <string name="profile_changing_language">Mengganti bahasa…</string>
+</resources>
