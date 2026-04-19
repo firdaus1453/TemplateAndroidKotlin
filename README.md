@@ -123,7 +123,7 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/TemplateAndroidKotlin.git
+git clone https://github.com/firdaus1453/TemplateAndroidKotlin.git
 
 # Open in Android Studio — Gradle sync will handle the rest
 ```
